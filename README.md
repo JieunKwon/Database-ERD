@@ -3,37 +3,37 @@
 - the method of presenting the Entity Relational model with graphics
 
         - Entity:“A person, a place, an object, an event, or a concept in the user environment about 
-        which the organization wishes to maintain data”  
+                which the organization wishes to maintain data”  
         
         - Entity Type: “A collection of entities that share common properties or characteristics” 
         
         - Entity Instance: “A single occurrence of an entity type” 
 
 
-Attribute:
-“A property or Characteristic of an entity or relationship type that is of interest to the organization”
+- Attribute:
+        “A property or Characteristic of an entity or relationship type that is of interest to the organization”
 
-Required Attribute:
-“An attribute that must have a value for every entity (or relationship)  instance with which it is associated” 
+- Required Attribute:
+        “An attribute that must have a value for every entity (or relationship)  instance with which it is associated” 
 
-Optional Attribute:
-“An attribute that may not have a value for every entity (or relationship) instance with which it associates “
+- Optional Attribute:
+        “An attribute that may not have a value for every entity (or relationship) instance with which it associates “
 
-Composite Attribute:	
-“An attribute that has meaningful component parts (attributes)” 
+- Composite Attribute:	
+        “An attribute that has meaningful component parts (attributes)” 
 
-Simple(or Atomic) Attribute:	
-“An attribute that cannot be broken down into smaller components that are meaningful to the organization
+- Simple(or Atomic) Attribute:	
+        “An attribute that cannot be broken down into smaller components that are meaningful to the organization
 
-Multivalued Attribute:	
-“An attribute that may take on more than one value for a given entity (or relationship) instance “
+- Multivalued Attribute:	
+        “An attribute that may take on more than one value for a given entity (or relationship) instance “
 
-Derived Attribute:	
-“An attribute whose values can be calculated from related attribute values” (Hoffer 
+- Derived Attribute:	
+        “An attribute whose values can be calculated from related attribute values” (Hoffer 
 
-Identifier:	
-“An attribute (or a combination of attributes) whose value distinguishes instances of an entity type” 
+- Identifier:	
+        “An attribute (or a combination of attributes) whose value distinguishes instances of an entity type” 
 
-Relationship type:	
-“A meaningful association between (or among) entity types” 
+- Relationship type:	
+        “A meaningful association between (or among) entity types” 
 
