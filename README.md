@@ -37,3 +37,8 @@
 - Relationship type:	
         “A meaningful association between (or among) entity types” 
 
+- Degree of a relationship Number of entity types that participate in a relationship
+        Unary (degree 1), recursive relationship : between entity instances of the same entity type
+        Binary (degree 2): between instances of two entity types
+        Ternary (degree 3): among the instances of three entity   
+
