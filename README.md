@@ -1,1 +1,1 @@
-# Database-ERD
+# Database-ERD (Entity Relational Diagram )
