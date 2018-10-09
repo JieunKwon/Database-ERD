@@ -10,7 +10,7 @@
         - Entity Instance: “A single occurrence of an entity type” 
 
 
-- Attribute:
+  - Attribute:
         “A property or Characteristic of an entity or relationship type that is of interest to the organization”
 
 - Required Attribute:
@@ -33,6 +33,9 @@
 
 - Identifier:	
         “An attribute (or a combination of attributes) whose value distinguishes instances of an entity type” 
+
+- Relationships (Association Relationship)
+        Represent the interaction between entities  
 
 - Relationship type:	
         “A meaningful association between (or among) entity types” 
