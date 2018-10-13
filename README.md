@@ -59,3 +59,5 @@
      - Ternary (degree 3): among the instances of three entity   
         
 
+# ERD
+![image]
