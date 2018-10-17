@@ -60,5 +60,5 @@
         
 
 # ERD
-![image](./ERD_2.png)
+![image](./ERD_Ans.JPG)
 
